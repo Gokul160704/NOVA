@@ -1,0 +1,17 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Private screenshots
+captures/
+
+# Secrets and API keys
+.env
+.env.*
+
+# IDE settings
+.vscode/
